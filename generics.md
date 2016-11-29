@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Landing
+title: CV
 ---
 
 <!-- Main -->
