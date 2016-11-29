@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: Olivia Zhao
+landing-title: Fangyun Olivia Zhao
 description: 
 image: 
 author: 
