@@ -10,7 +10,7 @@ title-bold: Fangyun
 title-normal: Olivia Zhao
 email: olivia.fangyun.zhao@gmail.com
 description: A website for Olivia Zhao
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: "https://fangyunzhao.github.io" # the base hostname & protocol for your site
 author: 
 street_address: 1001 University Ave.
