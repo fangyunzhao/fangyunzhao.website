@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Consequat
-description: Ipsum dolor sit amet
+title: CV
+description: CLICK TO VIEW
 image: assets/images/pic05.jpg
 ---
 
