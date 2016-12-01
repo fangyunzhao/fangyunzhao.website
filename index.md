@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: Fangyun Olivia Zhao
 description: 
-image: 
+image: fangyunzhao.github.io/assets/images/home.jpg
 author: 
 nav-menu: 
 ---
