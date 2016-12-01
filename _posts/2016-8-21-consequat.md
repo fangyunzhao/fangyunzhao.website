@@ -1,7 +1,7 @@
 ---
 layout: post
-title: CV
-description: CLICK TO VIEW
+title: More
+description: Past small projects, proposals & Presentations
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
