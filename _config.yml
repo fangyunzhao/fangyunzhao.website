@@ -12,13 +12,13 @@ email: olivia.fangyun.zhao@gmail.com
 description: An Undergraduate Researcher in Psychology and Robotics
 baseurl: # the subpath of your site, e.g. /blog
 url: "https://fangyunzhao.github.io" # the base hostname & protocol for your site
-author: 
-street_address: 1001 University Ave.
-city: Madison
-state: WI
-zip_code: 53706
-country: United States of America
-phone: (608)886-3284
+author: Olivia Zhao
+street_address: 
+city: 
+state: 
+zip_code: 
+country: 
+phone: 
 
 # Plugins
 gems:
