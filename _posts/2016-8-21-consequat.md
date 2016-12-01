@@ -2,7 +2,6 @@
 layout: post
 title: CV
 description: CLICK TO VIEW
-image: assets/images/pic05.jpg
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
