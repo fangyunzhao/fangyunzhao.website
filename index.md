@@ -37,7 +37,7 @@ nav-menu:
 		</header>
 		<p>Hello! I am currently a undergraduate student in University of Wisconsin-Madison, studying psychology and statistics. </p>
 		<ul class="actions">
-			<li><a href="/fangyunzhao.github.io/assets/images/CV_new.pdf" class="button next">More About Me</a></li>
+			<li><a href="landing.html" class="button next">More About Me</a></li>
 		</ul>
 	</div>
 </section>
