@@ -34,7 +34,6 @@ description: Past small projects, proposals & Presentations
 		</div>
 	</section>
 	<section>
-		<img src="/fangyunzhao.github.io/assets/images/interface.jpg" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
