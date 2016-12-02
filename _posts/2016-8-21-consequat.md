@@ -4,6 +4,8 @@ title: More
 description: Past small projects, proposals & Presentations
 ---
 
+<!-- Main -->
+<div id="main">
 
 <!-- One -->
 <section id="one">
