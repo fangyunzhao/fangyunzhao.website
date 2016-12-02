@@ -6,4 +6,8 @@ image: assets/images/pic11.jpg
 nav-menu: yes
 ---
 
+<ul class="actions">
+				<li><a href = "beneric.hml" class="button">CV</a></li>
+				</ul>
+
 I love photography, traveling, painting.
