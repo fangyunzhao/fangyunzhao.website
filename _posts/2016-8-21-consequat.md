@@ -35,14 +35,14 @@ description: Past small projects, proposals & Presentations
 	</section>
 	<section>
 		<div class="content">
-			<div class="inner">
+			<!--<div class="inner">-->
 				<header class="major">
 					<h3>The Positive Effects of Disgust</h3>
 				</header>
 				<i>Honors Lab Psychology Proposal Symposium, 2015</i>
 				<p>The paper proposed that the positive sides of having negative emotions. </p>
 
-			</div>
+			<!--</div>-->
 		</div>
 	</section>
 	<section>
