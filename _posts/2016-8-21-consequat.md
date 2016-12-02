@@ -46,7 +46,7 @@ description: Past small projects, proposals & Presentations
 		</div>
 	</section>
 	<section>
-		<img src="/fangyunzhao.github.io/assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+		<img src="/fangyunzhao.github.io/assets/images/bayes.jpg" alt="" data-position="25% 25%" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
