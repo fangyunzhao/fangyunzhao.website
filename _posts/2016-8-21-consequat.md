@@ -4,18 +4,17 @@ title: More
 description: Past small projects, proposals & Presentations
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. 
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+Here are some simple projects that i have done.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. 
-Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. 
-Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. 
-Pellentesque aliquam maximus risus, vel sed vehicula.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. 
-Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+<dt>The Positive Effects of Disgust, Honors Lab Psychology Proposal Symposium, 2015</dt>
+	<dd>
+		<p>The paper proposed that the positive sides of having negative emotions. </p>
+	</dd>
+	<dt>Profit Prediction and Customer Identification, 2016 Midwest Undergraduate Data Analysis Competition</dt>
+	<dd>
+		<p>Sponsored by Mayo Clinic, we got clients data from all over the country. In the project, we abandoned conventional clustering and classification method. Appling decision tree with kernel estimate and machine learning, we used the "GUIDE" first created by Professor Wei-yin Loh. We identified key factors that affected customer lost and their threholds. In the meantime, we trained a model with nearly 90% accuracy for potential customer identification and proposed additional 200 million profit.</p>
+	</dd>
+	<dt>Bayesian Application in Psychology</dt>
+	<dd>
+		<p>A introductory presentation to undergraduate students in Statistics Department.</p>
+	</dd>
