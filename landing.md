@@ -7,7 +7,7 @@ nav-menu: yes
 ---
 
 <ul class="actions">
-				<li><a href = "beneric.hml" class="button">CV</a></li>
+				<li><a href = "/fangyunzhao.github.io/assets/images/CV_new.pdf" class="button">CV</a></li>
 				</ul>
 
 I love photography, traveling, painting.
