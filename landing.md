@@ -7,7 +7,7 @@ nav-menu: yes
 ---
 
 <ul class="actions">
-				<li><a href = "/fangyunzhao.github.io/assets/images/CV_new.pdf" download = "CV_FangyunOliviaZhao.pdf"
+				<li><a href = "/fangyunzhao.github.io/assets/images/CVweb.pdf" download = "CV_FangyunOliviaZhao.pdf"
 				class="button">CV</a></li>
 				</ul>
 
