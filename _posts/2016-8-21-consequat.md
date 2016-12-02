@@ -1,7 +1,7 @@
 ---
 layout: post
-title: More
-description: Past small projects, proposals & Presentations
+title: More Projects
+description: Data Visualization, Social Science Proposal, Presentations
 ---
 
 <!-- Main -->
