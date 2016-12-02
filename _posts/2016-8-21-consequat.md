@@ -20,7 +20,7 @@ description: Past small projects, proposals & Presentations
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<img src="/fangyunzhao.github.io/assets/images/Q5.jpg" alt="" data-position="center center" />
+		<img src="/fangyunzhao.github.io/assets/images/mudac.jpg" alt="" data-position="center center" />
 		<div class="content">
 			<div class="inner">
 				
