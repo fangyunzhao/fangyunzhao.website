@@ -4,6 +4,7 @@ title: More
 description: Past small projects, proposals & Presentations
 ---
 
+<dl>
 Here are some simple projects that i have done.
 
 <dt>The Positive Effects of Disgust, Honors Lab Psychology Proposal Symposium, 2015</dt>
@@ -18,3 +19,4 @@ Here are some simple projects that i have done.
 	<dd>
 		<p>A introductory presentation to undergraduate students in Statistics Department.</p>
 	</dd>
+</dl>
