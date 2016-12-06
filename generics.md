@@ -10,7 +10,7 @@ title: Photo Gallery
     
 <img src="photos/alaska1.jpg" />
 
-<img src="photos/alaska02.jpg" />
+<img src="/fangyunzhao.github.io/photos/alaska02.jpg" />
 
 <img src="photos/mendota02.jpg" />
 
