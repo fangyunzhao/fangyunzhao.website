@@ -6,5 +6,5 @@ image:
 nav-menu: yes
 ---
 
-Under Construction
+Coming Soon...
 
