@@ -60,7 +60,7 @@ description: Data Visualization, Social Science Proposal, Presentations
 </section>
 
 <!-- Three -->
-<section id="three">
+<!--<section id="three">
 	<div class="inner">
 		<header class="major">
 			<h2>Application and Future Plan</h2>
@@ -71,4 +71,4 @@ description: Data Visualization, Social Science Proposal, Presentations
 </section>
 
 </div>
-
+-->
