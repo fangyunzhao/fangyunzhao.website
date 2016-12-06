@@ -22,3 +22,4 @@ I love photography, traveling, painting.
 		<h3>Painting</h3>
 		<p>Peace and Insiprations are my reasons for pencil sketching, traditional chinese painting and oil painting.</p>
 	</div>
+</div>
