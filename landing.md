@@ -33,7 +33,7 @@ nav-menu: yes
 		</header>
 		<p>Peace and Insiprations are my reasons for pencil sketching, traditional chinese painting and oil painting.</p>
 		<ul class="actions">
-			<li><a href = "/fangyunzhao.github.io/_posts/paint.html" class="button">Paintings</a></li>
+			<li><a href = "paint.html" class="button">Paintings</a></li>
 		</ul>
 	</div>
 </div>
