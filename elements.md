@@ -21,7 +21,7 @@ title: Photo Gallery
 
 
 
-<section id="two">
+<section id="two" class = "spotlights">
 	      <div class="inner">
 		          <header class="major">
 			                <h3>Traditional Chinese Painting</h3>
