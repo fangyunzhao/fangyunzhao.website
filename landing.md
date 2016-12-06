@@ -9,7 +9,9 @@ nav-menu: yes
 
 <div class="row">
 	<div class="4u 12u$(medium)">
-		<h3>Professional Me</h3>
+		<header class="major">
+			<h3>Professional Me</h3>
+		</header>
 		<p>School, Research, Bar Manager are professional me.</p>
 		<ul class="actions">
 				<li><a href = "/fangyunzhao.github.io/assets/images/CVweb.pdf" download = "CV_FangyunOliviaZhao.pdf"
