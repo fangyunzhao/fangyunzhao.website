@@ -1,14 +1,16 @@
 ---
 layout: post
-title: Projects
-description: Lorem ipsum dolor sit amet nullam consequat<br />sed veroeros. tempus adipiscing nulla.
-image: assets/images/pic07.jpg
+title: Paintings
+description: Some of my paintings
+image: 
 nav-menu: yes
 ---
 
+Under Construction
+
 <!-- Banner -->
 <!-- Note: The "styleN" class below should match that of the header element. -->
-<section id="banner" class="style2">
+<!--<section id="banner" class="style2">
 	<div class="inner">
 		<span class="image">
 			<img src="{{ site.baseurl }}/{{ page.image }}" alt="" />
@@ -26,7 +28,7 @@ nav-menu: yes
 <div id="main">
 
 <!-- One -->
-<section id="one">
+<!--<section id="one">
 	<div class="inner">
 		<header class="major">
 			<h2>Sed amet aliquam</h2>
@@ -36,7 +38,7 @@ nav-menu: yes
 </section>
 
 <!-- Two -->
-<section id="two" class="spotlights">
+<!--<section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
@@ -88,7 +90,7 @@ nav-menu: yes
 </section>
 
 <!-- Three -->
-<section id="three">
+<!--<section id="three">
 	<div class="inner">
 		<header class="major">
 			<h2>Massa libero</h2>
