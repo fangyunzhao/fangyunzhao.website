@@ -2,7 +2,7 @@
 layout: post
 title: Life
 description: Lorem ipsum dolor est
-image: fangyunzhao.github.io/assets/images/me.jpg
+image: fangyunzhao.github.io/assets/me.jpg
 nav-menu: yes
 ---
 
