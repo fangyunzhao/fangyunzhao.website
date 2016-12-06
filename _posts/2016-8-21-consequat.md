@@ -13,7 +13,7 @@ description: Data Visualization, Social Science Proposal, Presentations
 		          <header class="major">
 			                <h2>Introduction</h2>
 		          </header>
-		          <p>Here are some simple projects that i have done. </p>
+		          <p>Here are some more projects that i have done. </p>
 	      </div>
 </section>
 
