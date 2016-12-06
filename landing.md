@@ -20,14 +20,14 @@ nav-menu: yes
 		<h3>Photography</h3>
 		<p>I spent large amounts of my leisure time travelling and taking photos. <br/> Nature is never something i get tired of.</p>
 		<ul class="actions">
-				<li><a href = "photo.html" class="button">Photo Gallery</a></li>
+				<li><a href = "/fangyunzhao.github.io/_posts/photo.html" class="button">Photo Gallery</a></li>
 		</ul>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Painting</h3>
 		<p>Peace and Insiprations are my reasons for pencil sketching, traditional chinese painting and oil painting.</p>
 		<ul class="actions">
-			<li><a href = "paint.html" class="button">Paintings</a></li>
+			<li><a href = "/fangyunzhao.github.io/_posts/paint.html" class="button">Paintings</a></li>
 		</ul>
 	</div>
 </div>
