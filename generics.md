@@ -7,7 +7,11 @@ title: Photo Gallery
 		<header class="major">
 			<h1>Photo Gallery</h1>
 		</header>
-    
+</section>
+
+<header class="major">
+	<h3>Aurora Borealis, April 2015</h3>
+	</header>
 <img src="photos/alaska1.jpg" />
 
 <img src="photos/alska02.jpg" />
