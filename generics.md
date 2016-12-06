@@ -20,7 +20,7 @@ title: Photo Gallery
 
 <img src="photos/travel01.jpg" />
 
-<img src="photos/travel02.jpg" />
+<img src="photos/travel02.JPG" />
 
 <img src="photos/moon01.jpg" />
 
