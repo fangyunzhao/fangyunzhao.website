@@ -19,13 +19,15 @@ nav-menu: yes
 	<div class="4u 12u$(medium)">
 		<h3>Photography</h3>
 		<p>I spent large amounts of my leisure time travelling and taking photos. <br/> Nature is never something i get tired of.</p>
-				<ul class="actions">
+		<ul class="actions">
 				<li><a href = "photo.html" class="button">Photo Gallery</a></li>
 		</ul>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Painting</h3>
 		<p>Peace and Insiprations are my reasons for pencil sketching, traditional chinese painting and oil painting.</p>
-		<li><a href = "paint.html" class="button">Paintings</a></li>
+		<ul class="actions">
+			<li><a href = "paint.html" class="button">Paintings</a></li>
+		</ul>
 	</div>
 </div>
