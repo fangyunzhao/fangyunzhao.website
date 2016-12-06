@@ -35,7 +35,7 @@ nav-menu:
 		<header class="major">
 			<h2>Something about Me</h2>
 		</header>
-		<p>Hello! I am currently a undergraduate student in University of Wisconsin-Madison, studying psychology and statistics. </p>
+		<p>I am currently an undergraduate student in University of Wisconsin-Madison, studying psychology and statistics. I am board members in multiple student organizations. <br/> Beyond academic life, i love travelling, photography and painting.</p>
 		<ul class="actions">
 			<li><a href="landing.html" class="button next">More About Me</a></li>
 		</ul>
